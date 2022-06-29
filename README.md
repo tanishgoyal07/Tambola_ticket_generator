@@ -36,3 +36,10 @@ Concepts of C language to be used:-
 3.	 Switch Case
 4.	 Functions
 
+ScreenShots:
+
+![image](https://user-images.githubusercontent.com/94990169/176446561-f7b94e6b-831f-43a3-a6e4-7dcafa368a7b.png)
+![image](https://user-images.githubusercontent.com/94990169/176446656-7fd39023-3e81-4196-9b99-c02eddd43871.png)
+![image](https://user-images.githubusercontent.com/94990169/176446690-f3ec92dd-6d72-4389-adeb-7007c5e16746.png)
+![image](https://user-images.githubusercontent.com/94990169/176446709-f810cb94-6a28-4580-a3cb-d4033930709d.png)
+![image](https://user-images.githubusercontent.com/94990169/176446960-56e8ba9d-8b2f-4a56-bfb3-423336ffd055.png)
